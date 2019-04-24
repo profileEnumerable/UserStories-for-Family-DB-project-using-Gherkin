@@ -1,4 +1,15 @@
-# Glossary
+
+# User stories for the family database project
+
+This repository contains the results of the analysis of project requirements: Family database. The tools used were the Gherkin linguistic constructions and the BDD methodology (Behavior-driven development). Each user story, in addition to a dedicated feature, has a set of possible scenarios for its use to solve user tasks.
+
+ **List of sections for familiarization with the project**
+
+  * Glossary 
+
+  * Screenshots of program design
+ 
+## Glossary
  
  _База данных семьи_ -  файл c разширением .mdf являющий собой таблицу с совокупностью данных (фамилия, имя отчество и тд.) о всех вводимых членах семьи(Муж,жена,ребенок), которые хранятся в полях.Пустой файл содержит пустые поля.
  
@@ -24,10 +35,39 @@ _Окна_ - визуальное представление графическ�
 
 _Калькулятор роста_ - калькулятор расчитывающий рост в сантиметрах
 
-# Application design screenshots
+## Application design screenshots
 
-| `Buttons` | 
-  -------
+  * ### `Buttons` (Some of User Stories refer to this place)
+  
+ ![image not found](https://raw.githubusercontent.com/profileEnumerable/UserStories-for-Family-DB-project-using-Gherkin/master/Design%20Screenshots/open%20save%20new.PNG "CRUD Buttons")
+  
+ ***
+
+ * ### `General Tab`
+
+  ![image not found](https://raw.githubusercontent.com/profileEnumerable/UserStories-for-Family-DB-project-using-Gherkin/master/Design%20Screenshots/Pict%201.png "Genaral section")
+
+ ***
+
+  * ### `Husband Tab`
+
+  ![image not found](https://raw.githubusercontent.com/profileEnumerable/UserStories-for-Family-DB-project-using-Gherkin/master/Design%20Screenshots/Pict%202.png "Husband section")
+
+ ***
+
+  * ### `Children Tab`
+  
+![image not found](https://raw.githubusercontent.com/profileEnumerable/UserStories-for-Family-DB-project-using-Gherkin/master/Design%20Screenshots/Pict%203.png "Children section")
+
+
+
+  
+
+
+
+
+
+
 
 
 
